@@ -2,21 +2,21 @@
     "feed": [
         {
             "id": 1,
-            "name": "Bits and Bytes Publication",
+            "name": "La Salle Computer Society",
             "image": "http://dlsu-lscs.org/css/image/logo-white.png",
-            "status": "Publications!",
+            "status": "New Logo!",
             "profilePic": "http://dlsu-lscs.org/css/image/logo-white.png",
             "timeStamp": "1403375851930",
             "url": "http://dlsu-lscs.org"
         },
         {
             "id": 2,
-            "name": "TIME",
-            "image": "http://api.androidhive.info/feed/img/time_best.jpg",
-            "status": "30 years of Cirque du Soleil's best photos",
-            "profilePic": "http://api.androidhive.info/feed/img/time.png",
+            "name": "Computer Studies Government",
+            "image": "https://scontent.fmnl2-1.fna.fbcdn.net/hphotos-xfl1/t31.0-8/s960x960/12615176_1056593197732648_8509115529312846910_o.jpg",
+            "status": "Pogi ni Marc San Pedro",
+            "profilePic": "http://www.dlsu.edu.ph/_assets/_images/_logos/CCS-logo.jpg",
             "timeStamp": "1403375851930",
-            "url": "http://ti.me/1qW8MLB"
+            "url": "https://www.facebook.com/photo.php?fbid=1056593197732648&set=a.112644115460899.10802.100001459333356&type=3&theater"
         },
         {
             "id": 5,
