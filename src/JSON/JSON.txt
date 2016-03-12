@@ -20,11 +20,11 @@
         },
         {
             "id": 5,
-            "name": "Abraham Lincoln",
-            "image": null,
-            "status": "That some achieve great success, is proof to all that others can achieve it as well",
-            "profilePic": "http://api.androidhive.info/feed/img/lincoln.jpg",
-            "timeStamp": "1403375851930",
+            "name": "Shayane E. Tan",
+            "image": "https://scontent.fmnl2-1.fna.fbcdn.net/hphotos-xfl1/v/t1.0-9/1544421_1762384957353002_2890765361568917026_n.jpg?oh=56c0a57afd213ca4a82608b327d7cc88&oe=5798534D",
+            "status": "HAHAH cute cutee",
+            "profilePic": "https://www.facebook.com/photo.php?fbid=1309110509102858&set=a.161534933860427.38340.100000117651154&type=3&theater",
+            "timeStamp": "1457777960",
             "url": null
         },
         {
