@@ -65,10 +65,10 @@
         },
         {
             "id": 8,
-            "name": "Rock & Girl",
-            "image": "http://api.androidhive.info/feed/img/rock.jpg",
-            "status": "A long time back...",
-            "profilePic": "http://api.androidhive.info/feed/img/rock_girl.jpg",
+            "name": "Shaila Mae Choa",
+            "image": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfl1/t31.0-8/s960x960/12628524_10154466703879409_7342684442791205153_o.jpg",
+            "status": "I'm hot",
+            "profilePic": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfl1/t31.0-8/s960x960/12628524_10154466703879409_7342684442791205153_o.jpg",
             "timeStamp": "1403375851930",
             "url": ""
         },
